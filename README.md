@@ -1,7 +1,7 @@
 # codeforces-rating-change
 
-Calculates the rating change for participants in a Codeforces competition,
-even when the competition isn't finished yet. Basically a python rewrite of
+Calculates the rating change for participants of a Codeforces competition,
+even when the competition isn't finished yet. Essentially a Python rewrite of
 [the code used at Codeforces](https://codeforces.com/contest/1/submission/13861109).
 
 The process used to calculate the rating change is described in
